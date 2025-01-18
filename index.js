@@ -1,1 +1,1 @@
-console.log('sample-test-commit-new');
+console.log('sample-test-conflict-new');
